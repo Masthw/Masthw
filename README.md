@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-
 # Sobre Mim / About Me
 
 ## Português
@@ -12,7 +11,7 @@ Olá! 👋 Meu nome é Masthw e sou um desenvolvedor apaixonado por tecnologia, 
 🚀 <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3-alt"></i> CSS | <i class="fab fa-js"></i> JavaScript  
 💻 <i class="fab fa-react"></i> React.js  
 🔧 <i class="fab fa-git"></i> Git | <i class="fab fa-github"></i> GitHub  
-💼 <i class="fab fa-microsoft"></i> C#  
+💼 <i class="fab fa-csharp"></i> C#  
 📱 <i class="fab fa-flutter"></i> Flutter  
 📊 <i class="fas fa-database"></i> SQL  
 
@@ -25,6 +24,6 @@ Hello! 👋 My name is Masthw and I'm a technology enthusiast with about 5 month
 🚀 <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3-alt"></i> CSS | <i class="fab fa-js"></i> JavaScript  
 💻 <i class="fab fa-react"></i> React.js  
 🔧 <i class="fab fa-git"></i> Git | <i class="fab fa-github"></i> GitHub  
-💼 <i class="fab fa-microsoft"></i> C#  
+💼 <i class="fab fa-csharp"></i> C#  
 📱 <i class="fab fa-flutter"></i> Flutter  
 📊 <i class="fas fa-database"></i> SQL  
