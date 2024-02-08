@@ -21,7 +21,7 @@ Hello! 👋 My name is Matheus and I'm a technology enthusiast with about 5 mont
 
 ### Technologies I master:
 
- <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3-alt"></i> CSS | <i class="fab fa-js"></i> JavaScript  
+ <i class="fab fa-html5"></i> HTML | <i class="fa-brands fa-css3-alt"></i> CSS | <i class="fab fa-js"></i> JavaScript  
  <i class="fab fa-react"></i> React.js  
  <i class="fab fa-git"></i> Git | <i class="fab fa-github"></i> GitHub  
  <i class="fab fa-csharp"></i> C#  
