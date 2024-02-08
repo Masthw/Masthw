@@ -16,7 +16,7 @@ Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" heigh="15"/> SQL
 
  ### Tecnologias em aprendizado:
-<<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" heigh="15"/> React.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" heigh="15"/> React.js
 
 ## English
 
@@ -31,4 +31,4 @@ Hello! 👋 My name is Matheus and I'm a technology enthusiast with about 5 mont
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" heigh="15"/> SQL
 
 ### Technologies in learning:
-<<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" heigh="15"/> React.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" heigh="15"/> React.js
