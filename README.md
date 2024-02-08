@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 # Sobre Mim / About Me
 
@@ -8,12 +9,14 @@ Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia,
 
 ### Tecnologias que domino:
 
- <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3-alt"></i> CSS | <i class="fab fa-js"></i> JavaScript  
- <i class="fab fa-react"></i> React.js  
- <i class="fab fa-git"></i> Git | <i class="fab fa-github"></i> GitHub  
- <i class="fab fa-csharp"></i> C#  
- <i class="fab fa-flutter"></i> Flutter  
- <i class="fas fa-database"></i> SQL  
+<i class="devicon-html5-plain colored"></i> HTML | <i class="devicon-css3-plain colored"></i> CSS | <i class="devicon-javascript-plain colored"></i> JavaScript  
+<i class="devicon-git-plain colored"></i> Git | <i class="devicon-github-original colored"></i> GitHub | <i class="devicon-gitlab-plain colored"></i> GitLab 
+<i class="devicon-csharp-plain colored"></i> C#  
+<i class="devicon-flutter-plain colored"></i> Flutter  
+<i class="devicon-azuresqldatabase-plain colored"></i> SQL
+
+ ### Tecnologias em aprendizado:
+<i class="devicon-react-original colored"></i> React.js
 
 ## English
 
@@ -21,9 +24,12 @@ Hello! 👋 My name is Matheus and I'm a technology enthusiast with about 5 mont
 
 ### Technologies I master:
 
- <i class="fab fa-html5"></i> HTML | <i class="fa-brands fa-css3-alt"></i> CSS | <i class="fab fa-js"></i> JavaScript  
- <i class="fab fa-react"></i> React.js  
- <i class="fab fa-git"></i> Git | <i class="fab fa-github"></i> GitHub  
- <i class="fab fa-csharp"></i> C#  
- <i class="fab fa-flutter"></i> Flutter  
- <i class="fas fa-database"></i> SQL  
+<i class="devicon-html5-plain colored"></i> HTML | <i class="devicon-css3-plain colored"></i> CSS | <i class="devicon-javascript-plain colored"></i> JavaScript  
+<i class="devicon-git-plain colored"></i> Git | <i class="devicon-github-original colored"></i> GitHub | <i class="devicon-gitlab-plain colored"></i> GitLab 
+<i class="devicon-csharp-plain colored"></i> C#  
+<i class="devicon-flutter-plain colored"></i> Flutter  
+<i class="devicon-azuresqldatabase-plain colored"></i> SQL
+
+ ### Tecnologias em aprendizado:
+<i class="devicon-react-original colored"></i> React.js
+
