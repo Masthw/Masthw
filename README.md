@@ -9,14 +9,14 @@ Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia,
 
 ### Tecnologias que domino:
 
-<i class="devicon-html5-plain colored" width="40" height="40"/></i> HTML | <i class="devicon-css3-plain colored"></i> CSS | <i class="devicon-javascript-plain colored"></i> JavaScript  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="10" height="10"/> Git | <i class="devicon-github-original colored"></i> GitHub | <i class="devicon-gitlab-plain colored"></i> GitLab 
-<i class="devicon-csharp-plain colored"></i> C#  
-<i class="devicon-flutter-plain colored"></i> Flutter  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  /> SQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15" height="15"/>/></i> HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="15" height="15"/>CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15" height="15"/> JavaScript  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15"/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="15" height="15" /> GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="15" height="15"/> GitLab 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="15" height="15"/> C#  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="15" heigh="15"/> Flutter  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" heigh="15"/> SQL
 
  ### Tecnologias em aprendizado:
-<i class="devicon-react-original colored"></i> React.js
+<<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" heigh="15"/> React.js
 
 ## English
 
@@ -24,12 +24,11 @@ Hello! 👋 My name is Matheus and I'm a technology enthusiast with about 5 mont
 
 ### Technologies I master:
 
-<i class="devicon-html5-plain colored"></i> HTML | <i class="devicon-css3-plain colored"></i> CSS | <i class="devicon-javascript-plain colored"></i> JavaScript  
-<i class="devicon-git-plain colored"></i> Git | <i class="devicon-github-original colored"></i> GitHub | <i class="devicon-gitlab-plain colored"></i> GitLab 
-<i class="devicon-csharp-plain colored"></i> C#  
-<i class="devicon-flutter-plain colored"></i> Flutter  
-<i class="devicon-azuresqldatabase-plain colored"></i> SQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15" height="15"/>/></i> HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="15" height="15"/>CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15" height="15"/> JavaScript  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15"/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="15" height="15" /> GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="15" height="15"/> GitLab 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="15" height="15"/> C#  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="15" heigh="15"/> Flutter  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" heigh="15"/> SQL
 
- ### Tecnologias em aprendizado:
-<i class="devicon-react-original colored"></i> React.js
-
+### Technologies in learning:
+<<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" heigh="15"/> React.js
