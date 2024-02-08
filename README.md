@@ -10,7 +10,7 @@ Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia,
 ### Tecnologias que domino:
 
 <i class="devicon-html5-plain colored" width="40" height="40"/></i> HTML | <i class="devicon-css3-plain colored"></i> CSS | <i class="devicon-javascript-plain colored"></i> JavaScript  
-<i class="devicon-git-plain colored"></i> Git | <i class="devicon-github-original colored"></i> GitHub | <i class="devicon-gitlab-plain colored"></i> GitLab 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> Git | <i class="devicon-github-original colored"></i> GitHub | <i class="devicon-gitlab-plain colored"></i> GitLab 
 <i class="devicon-csharp-plain colored"></i> C#  
 <i class="devicon-flutter-plain colored"></i> Flutter  
 <i class="devicon-azuresqldatabase-plain colored"></i> SQL
