@@ -17,8 +17,7 @@ Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" height="15"/> SQL
 
 ### Tecnologias em aprendizado:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15"/> Next.js 
+ Next.js | Vue.js | Quasar
 
 ## English
 
@@ -35,8 +34,8 @@ Hello! 👋 My name is Matheus and I'm a technology enthusiast with about 10 mon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" height="15"/> SQL
 
 ### Technologies in learning:
+ Next.js | Vue.js | Quasar
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15"/> Next.js
 <div>
 <a href="https://github.com/Masthw">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masthw&layout=compact&langs_count=7&theme=dracula"/>
