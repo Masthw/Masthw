@@ -16,8 +16,8 @@ Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 1 ano e 4 mes
 
 ### Tecnologias:
 
-   React | React Native | TypeScript
-   C# | Flutter
+   React | React Native | TypeScript |
+   C# | Flutter|
    Git | GitHub | GitLab
 
 ### Tecnologias em aprendizado:
@@ -37,8 +37,8 @@ Hello! 👋 My name is Matheus, and I'm a front-end developer with 1 year and 4 
 
 ### Technologies:
 
-   React | React Native | TypeScript
-   C# | Flutter
+   React | React Native | TypeScript |
+   C# | Flutter |
    Git | GitHub | GitLab
    
 ### Technologies in learning:
