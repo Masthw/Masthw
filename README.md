@@ -4,37 +4,45 @@
 
 ## Português
 
-Olá! 👋 Meu nome é Matheus e sou um desenvolvedor apaixonado por tecnologia, com cerca de 1 ano e 4 meses de experiência profissional na área e 3 anos de estudos dedicados. Possuo habilidades sólidas em desenvolvimento web utilizando HTML, CSS e JavaScript, além de experiência em frameworks como React.js. Também sou proficientes em C#, Flutter e SQL. Estou sempre buscando aprender mais e enfrentar novos desafios. Além disso, possuo um nível avançado de inglês.
+Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 1 ano e 4 meses de experiência profissional, atuando no desenvolvimento de aplicações web e mobile. Tenho expertise em frameworks modernos como React e React Native, com foco em responsividade, performance e boas práticas de UI/UX. Além disso, possuo experiência no desenvolvimento de interfaces escaláveis e reutilizáveis, utilizando TypeScript para garantir maior segurança e manutenibilidade do código. Busco constantemente aprimorar minhas habilidades e estou atualmente expandindo meus conhecimentos em tecnologias como Next.js, Vue.js e Quasar. Possuo nível avançado de inglês, o que me permite colaborar em projetos internacionais e atuar em ambientes multiculturais.
 
-### Tecnologias que domino:
+### Principais competências:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15" height="15"/> HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="15" height="15"/> CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15" height="15"/> JavaScript  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15"/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="15" height="15" /> GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="15" height="15"/> GitLab  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="15" height="15"/> C#  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="15" height="15"/> Flutter  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15"/> React  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15"/> React Native  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" height="15"/> SQL
+   Desenvolvimento web e mobile responsivo
+   Performance e otimização de interfaces
+   Boas práticas de UI/UX
+   Componentização e reutilização de código
+   Versionamento de código com Git (GitHub/GitLab)
+
+### Tecnologias:
+
+   React | React Native | TypeScript
+   C# | Flutter
+   Git | GitHub | GitLab
 
 ### Tecnologias em aprendizado:
- Next.js | Vue.js | Quasar
+   Next.js | Vue.js | Quasar
 
 ## English
 
-Hello! 👋 My name is Matheus and I'm a technology enthusiast with about 1 year and 4 months of professional experience in the field and 3 years of dedicated studies. I have strong skills in web development using HTML, CSS, and JavaScript, as well as experience with frameworks like React.js. I'm also proficient in C#, Flutter, and SQL. I'm always eager to learn more and take on new challenges. Additionally, I have an advanced level of English proficiency.
+Hello! 👋 My name is Matheus, and I'm a front-end developer with 1 year and 4 months of professional experience, focusing on web and mobile application development. I have expertise in modern frameworks such as React and React Native, with a strong emphasis on responsiveness, performance, and UI/UX best practices. Additionally, I have experience in building scalable and maintainable interfaces using TypeScript to ensure code reliability and maintainability. I'm continuously improving my skills and currently expanding my knowledge in technologies like Next.js, Vue.js, and Quasar. I have an advanced level of English, allowing me to collaborate on international projects and work in multicultural environments.
 
-### Technologies I master:
+### Core competencies:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15" height="15"/> HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="15" height="15"/> CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15" height="15"/> JavaScript  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15"/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="15" height="15" /> GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="15" height="15"/> GitLab  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="15" height="15"/> C#  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="15" height="15"/> Flutter  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15"/> React  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15"/> React Native  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" height="15"/> SQL
+   Responsive web and mobile development
+   Performance optimization
+   UI/UX best practices
+   Componentization and code reusability
+   Code versioning with Git (GitHub/GitLab)
 
+### Technologies:
+
+   React | React Native | TypeScript
+   C# | Flutter
+   Git | GitHub | GitLab
+   
 ### Technologies in learning:
- Next.js | Vue.js | Quasar
+   Next.js | Vue.js | Quasar
 
 <div>
 <a href="https://github.com/Masthw">
