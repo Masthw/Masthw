@@ -16,7 +16,14 @@ Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 1 ano e 4 mes
 
 ### Tecnologias:
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,d3,dart,docker,figma,flutter,git,github,gitlab,materialui,tailwind,ts,vite,vercel,vue&perline=10)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,d3,dart,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,git,github,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
+  </a>
+</p>
+
+
 
 ## English
 
@@ -32,7 +39,12 @@ Hello! 👋 My name is Matheus, and I'm a front-end developer with 1 year and 4 
 
 ### Technologies:
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,d3,dart,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,git,github,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
+  </a>
+</p>
 
 <div>
 <a href="https://github.com/Masthw">
