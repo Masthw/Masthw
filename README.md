@@ -16,12 +16,7 @@ Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 1 ano e 4 mes
 
 ### Tecnologias:
 
-   React | React Native | TypeScript |
-   C# | Flutter |
-   Git | GitHub | GitLab
-
-### Tecnologias em aprendizado:
-   Next.js | Vue.js | Quasar
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## English
 
@@ -37,12 +32,7 @@ Hello! 👋 My name is Matheus, and I'm a front-end developer with 1 year and 4 
 
 ### Technologies:
 
-   React | React Native | TypeScript |
-   C# | Flutter |
-   Git | GitHub | GitLab
-   
-### Technologies in learning:
-   Next.js | Vue.js | Quasar
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <div>
 <a href="https://github.com/Masthw">
