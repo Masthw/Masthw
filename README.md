@@ -18,7 +18,7 @@ Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 1 ano e 4 mes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,d3,dart,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,d3,dart,react,figma" />
     <img src="https://skillicons.dev/icons?i=flutter,git,github,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
   </a>
 </p>
@@ -41,8 +41,8 @@ Hello! 👋 My name is Matheus, and I'm a front-end developer with 1 year and 4 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,d3,dart,docker,figma" />
-    <img src="https://skillicons.dev/icons?i=flutter,git,github,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,d3,dart,react,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,git,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
   </a>
 </p>
 
