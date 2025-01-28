@@ -18,7 +18,7 @@ Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 1 ano e 4 mes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,d3,dart,react,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,d3,dart,react,figma" />
     <img src="https://skillicons.dev/icons?i=flutter,git,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
   </a>
 </p>
