@@ -8,11 +8,11 @@ Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 1 ano e 4 mes
 
 ### Principais competências:
 
-   Desenvolvimento web e mobile responsivo
-   Performance e otimização de interfaces
-   Boas práticas de UI/UX
-   Componentização e reutilização de código
-   Versionamento de código com Git (GitHub/GitLab)
+   Desenvolvimento web e mobile responsivo;
+   Performance e otimização de interfaces;
+   Boas práticas de UI/UX;
+   Componentização e reutilização de código;
+   Versionamento de código com Git (GitHub/GitLab);
 
 ### Tecnologias:
 
@@ -31,11 +31,11 @@ Hello! 👋 My name is Matheus, and I'm a front-end developer with 1 year and 4 
 
 ### Core competencies:
 
-   Responsive web and mobile development
-   Performance optimization
-   UI/UX best practices
-   Componentization and code reusability
-   Code versioning with Git (GitHub/GitLab)
+   Responsive web and mobile development;
+   Performance optimization;
+   UI/UX best practices;
+   Componentization and code reusability;
+   Code versioning with Git (GitHub/GitLab);
 
 ### Technologies:
 
