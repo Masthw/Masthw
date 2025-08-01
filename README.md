@@ -4,22 +4,27 @@
 
 ## Português
 
-Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 2 anos de experiência profissional, atuando no desenvolvimento de aplicações web e mobile. Tenho expertise em frameworks modernos como React e React Native, com foco em responsividade, performance e boas práticas de UI/UX. Além disso, possuo experiência no desenvolvimento de interfaces escaláveis e reutilizáveis, utilizando TypeScript para garantir maior segurança e manutenibilidade do código. Busco constantemente aprimorar minhas habilidades e estou atualmente expandindo meus conhecimentos em tecnologias como Next.js, Vue.js e Quasar. Possuo nível avançado de inglês, o que me permite colaborar em projetos internacionais e atuar em ambientes multiculturais.
+Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 2 anos de experiência profissional, especializado na criação de interfaces modernas e responsivas para aplicações web e mobile. Tenho domínio de tecnologias como **React**, **React Native** e **Flutter**, utilizando **TypeScript** para garantir código mais robusto e escalável.
 
-### Principais competências:
+Trabalho com foco em **experiência do usuário (UI/UX)**, **performance** e **componentização**. Tenho experiência com bibliotecas e frameworks como **Tailwind CSS**, **Material UI**, **Vite**, **Vue.js**, **Next.js**, e estou atualmente expandindo meus conhecimentos em **NestJS** para o back-end.
 
-   Desenvolvimento web e mobile responsivo;
-   Performance e otimização de interfaces;
-   Boas práticas de UI/UX;
-   Componentização e reutilização de código;
-   Versionamento de código com Git (GitHub/GitLab);
+Também já trabalhei com **integrações com Firebase**, **MongoDB**, além de aplicar recursos gráficos e interativos com **Three.js** e até mesmo **Blender** e **After Effects** para prototipagem visual e conteúdos multimídia. Tenho nível avançado de inglês, o que me permite atuar em projetos internacionais e colaborar com equipes multiculturais.
+
+### 🧩 Principais competências
+
+- Desenvolvimento web e mobile responsivo  
+- Performance e otimização de interfaces  
+- Boas práticas de UI/UX  
+- Componentização e reutilização de código  
+- Integração com back-end (REST/Firebase/NestJS)  
+- Versionamento com Git (GitHub/GitLab) 
 
 ### Tecnologias:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,d3,dart,react,figma" />
-    <img src="https://skillicons.dev/icons?i=flutter,git,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,dart,react,figma,flutter,gitlab,tailwind,vite,vue" />
+   <img src="https://skillicons.dev/icons?i=express,blender,ae,firebase,mongodb,nextjs,nestjs,nodejs,threejs,git,materialui,ts,vercel" />
   </a>
 </p>
 
@@ -27,22 +32,27 @@ Olá! 👋 Meu nome é Matheus, sou um desenvolvedor front-end com 2 anos de exp
 
 ## English
 
-Hello! 👋 My name is Matheus, and I'm a front-end developer with 2 years of professional experience, focusing on web and mobile application development. I have expertise in modern frameworks such as React and React Native, with a strong emphasis on responsiveness, performance, and UI/UX best practices. Additionally, I have experience in building scalable and maintainable interfaces using TypeScript to ensure code reliability and maintainability. I'm continuously improving my skills and currently expanding my knowledge in technologies like Next.js, Vue.js, and Quasar. I have an advanced level of English, allowing me to collaborate on international projects and work in multicultural environments.
+Hello! 👋 My name is Matheus, and I'm a front-end developer with 2 years of professional experience, specialized in building modern and responsive user interfaces for web and mobile applications. I have strong knowledge in **React**, **React Native**, and **Flutter**, and I use **TypeScript** to ensure robust and scalable codebases.
 
-### Core competencies:
+My work focuses on **user experience (UI/UX)**, **performance**, and **component reusability**. I have experience with frameworks and tools such as **Tailwind CSS**, **Material UI**, **Vite**, **Vue.js**, and **Next.js**, and I’m currently expanding my backend skills with **NestJS**.
 
-   Responsive web and mobile development;
-   Performance optimization;
-   UI/UX best practices;
-   Componentization and code reusability;
-   Code versioning with Git (GitHub/GitLab);
+I’ve also worked with **Firebase**, **MongoDB**, and added 3D/visual interactions with **Three.js**, **Blender**, and **After Effects**. I have an advanced level of English, which allows me to collaborate on international projects and multicultural teams.
+
+### 🧩 Core competencies
+
+- Responsive web and mobile development  
+- Interface performance optimization  
+- UI/UX best practices  
+- Code modularization and reusability  
+- Backend integration (REST/Firebase/NestJS)  
+- Version control with Git (GitHub/GitLab)
 
 ### Technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,d3,dart,react,figma" />
-    <img src="https://skillicons.dev/icons?i=flutter,git,gitlab,materialui,tailwind,ts,vite,vercel,vue" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,bash,cs,dart,react,figma,flutter,gitlab,tailwind,vite,vue" />
+   <img src="https://skillicons.dev/icons?i=express,blender,ae,firebase,mongodb,nextjs,nestjs,nodejs,threejs,git,materialui,ts,vercel" />
   </a>
 </p>
 
